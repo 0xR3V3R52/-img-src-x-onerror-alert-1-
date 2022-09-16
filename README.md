@@ -1,1 +1,2 @@
-[this is a simple url](javascript:alert(document.cookie))
+![This is an image](javascript:alert(document.domain))
+
