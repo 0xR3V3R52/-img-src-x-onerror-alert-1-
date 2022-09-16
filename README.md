@@ -1,2 +1,1 @@
-![This is an image](javascript:alert(document.domain))
-
+This site was built using [GitHub Pages](https://pages.github.com/).
