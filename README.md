@@ -1,2 +1,1 @@
-# -img-src-x-onerror-alert-1-
-">&lt;img src=x onerror=alert(1)/>
+[this is a simple url](javascript:alert(document.cookie))
