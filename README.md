@@ -1,1 +1,1 @@
-This site was built using [GitHub Pages](JaVaScRiPt:alert(1)).
+This site was built using [GitHub Pages](javascript:alert(1)).
